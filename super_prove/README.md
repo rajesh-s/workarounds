@@ -1,0 +1,2 @@
+Installing [SymbiYosys](https://symbiyosys.readthedocs.io/en/latest/) requires super_prove to be installed. But the repository is no longer being maintained https://bitbucket.org/sterin/super_prove_build/src/default/
+There were a few issues building this for Ubuntu18.04 described [here](https://gist.github.com/rajesh-s/70883ad960e89fa69eef0992f4fc0737). If the workaround does not work, use the attached binary built for Ubuntu18.04 (Putting this here because I could not find it anywhere else)
